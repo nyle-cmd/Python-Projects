@@ -1,0 +1,1 @@
+This project utilized selenium and the panda package in order to find something on the web (user input) and collect that data, eg. top 10 best turkey recipes. Program would then grab top 10 by their header and import into a seperate excel sheet ready for viewing.
