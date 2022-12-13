@@ -1,7 +1,7 @@
 import discord
 import random
 
-TOKEN = 'MTA1MTk4NDc3Nzk1NzM1NTY4MA.G_OMu4.cY3mUT0TQhNl6vZV1kb2EmAjNDX3bq5TpDX5Tk'
+TOKEN = 'SECRET WORDS'
 
 intents = discord.Intents.default()
 intents.message_content = True
