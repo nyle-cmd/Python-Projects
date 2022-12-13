@@ -1,7 +1,7 @@
 import discord
 import random
-
-TOKEN = 'SECRET WORDS'
+#https://pypi.org/project/discord.py/ <-- for the API
+TOKEN = 'SECRET WORDS' # don't post this online as I have accidentally :(
 
 intents = discord.Intents.default()
 intents.message_content = True
