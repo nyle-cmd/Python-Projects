@@ -1,5 +1,3 @@
-This was a bot coded with the PyPl api but unfortunatly
-getting it compatible with the current discord version was near impossible at my current skillset
-so I had to migrate to something newer and easier to code.
+I developed a bot using the PyPl API, but regrettably, making it compatible with the latest Discord version proved to be quite challenging given my current skill level. As a result, I decided to transition to a more up-to-date and user-friendly platform for development.
 
 https://pypi.org/project/discord.py/
