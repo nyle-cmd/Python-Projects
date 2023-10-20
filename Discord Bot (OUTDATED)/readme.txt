@@ -47,8 +47,8 @@ Add any additional settings or customizations specific to your bot.
 Usage
 To run the Discord API Bot, execute the following command:
 
-bash
-Copy code
+```
 python bot.py
+```
 Your bot will now be active and ready to respond to events and commands on the Discord platform.
 https://pypi.org/project/discord.py/
