@@ -13,7 +13,7 @@ To use the Discord API Bot, you will need to follow these installation instructi
 Clone the Repository
 
 Clone this repository to your local machine:
-```python
+```
 git clone https://github.com/your-username/discord-api-bot.git
 cd discord-api-bot
 ```
